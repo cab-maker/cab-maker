@@ -7,5 +7,5 @@
 - 💬 Ask me about PySimplegui
 - 📫 How to reach me: Discord (puri_dal.)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: skibidi
+- 🧠 Knowledge About: QBASIC , PYTHON , SCRATCH , TTYNKER
 
